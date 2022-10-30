@@ -1,2 +1,2 @@
-# Jaascript/ECMAScript ES6
+# Javascript/ECMAScript ES6
 my Javascript practice repo to be updated everyday
